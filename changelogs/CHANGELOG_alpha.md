@@ -1,3 +1,8 @@
+### Features
+
+* Add background color when selecting a text on the Modal header ([#1831](https://github.com/parse-community/parse-dashboard/issues/1831))
+
+
 # [5.0.0-alpha.8](https://github.com/ParsePlatform/parse-dashboard/compare/5.0.0-alpha.7...5.0.0-alpha.8) (2022-10-24)
 
 
